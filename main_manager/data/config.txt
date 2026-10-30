@@ -1,0 +1,4 @@
+Write in the next line the IP adress of the MQTT broker:
+mqtt://localhost
+Write in the next line the PASSWORD of the application:
+1234
